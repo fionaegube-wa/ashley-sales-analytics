@@ -1,4 +1,4 @@
-#  Sales Data Analytics
+#  Ashley Sales Data Analytics
 Overview
 
 This project demonstrates how Ashley Furniture automated its sales data ingestion and transformation process using Google Cloud Dataflow (Apache Beam) and Cloud Composer (Airflow).
